@@ -1,7 +1,6 @@
 package com.wbd.projekt;
 
 import javax.swing.JFrame;
-import javax.swing.JTabbedPane;
 import java.awt.BorderLayout;
 
 import javax.swing.DefaultListModel;
@@ -11,8 +10,6 @@ import javax.swing.JList;
 import javax.swing.ListModel;
 
 import java.awt.Dimension;
-import java.awt.FlowLayout;
-import java.awt.GridLayout;
 import javax.swing.JLabel;
 import java.awt.Font;
 import java.sql.ResultSet;
@@ -23,7 +20,6 @@ import javax.swing.SwingConstants;
 import javax.swing.ListSelectionModel;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
-import javax.swing.JTextArea;
 import javax.swing.JScrollPane;
 import javax.swing.table.DefaultTableModel;
 import javax.swing.JButton;
