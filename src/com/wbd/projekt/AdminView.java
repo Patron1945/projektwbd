@@ -32,7 +32,6 @@ public class AdminView extends JFrame
 
 	private JList<String> list;
 	private JLabel lblListaRelacji;
-	private JScrollPane scrollPane;
 	private JTable table;
 	private JScrollPane scrollPane_1;
 	private DefaultTableModel model;
